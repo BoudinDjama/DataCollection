@@ -1,0 +1,7 @@
+AL|Allemand
+CH|Chinois
+EN|Anglais
+FR|Français
+IT|Italien
+PO|Portugais
+SP|Espagnol

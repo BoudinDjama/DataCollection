@@ -1,0 +1,103 @@
+﻿M000001|METU|IT|Armstrong|Louis|1310 Rue D'Argenson|Montreal|NB|H3K-3B2|(514)932-8917|johnarm@sympatico.ca
+M000002|METU|FR|Bourdon|Denis|6811 Rue Molson|Montreal|QC|H1Y-3C6|(514)376-2392|dbourd@entreprisebourdon.com
+M000003|MAIN|EN|Layton|Joaquan|1609 Rue Saint-Andre|Montreal|QC|H2L-3T5|(514)522-5790|Laytj@cyberus.ca
+M000004|MAIN|FR|Massie|Jean|8750 Rue Saint-Hubert|Montreal|QC|H2M-1Y5|(514)388-4965|MassieJean2@cyberus.ca
+M000005|MENF|FR|Morin|Micheline|9233 Boul Perras|Montreal|QC|H1E-6L4|(514)643-0651|MorinMich21@videotron.ca
+M000006|MADU|FR|Pharand|Madeleine|6555 Rue De Pontoise|Montreal|QC|H1T-3S9|(514)254-1774|PharMad@videotron.ca
+M000007|METU|EN|Roza|Roberto|5097 Ch De la Cote-Saint-Antoine|Montreal|QC|H4A-1N6|(514)484-4929|RozaM@cyberus.ca
+M000008|METU|EN|Ferrer|Mercedes|4731 Av Barclay|Montreal|QC|H4A-1C8|(514)342-7381|MerFerrer@sympatico.ca
+M000009|MADU|FR|Villeneuve|Benoit|1455 Rue De Louvain E|Montreal|QC|H2M-1R3|(514)384-3046|admin@renovationsvilleneuve.ca
+M000010|MAIN|EN|Burger|Ingeborg|1894 Rue Dubois|Montreal|QC|H4A-1W3|(514)766-6960|IBurger@cyberus.ca
+M000011|MENF|EN|Rogers|Caroline|243 Av 6e|Quebec|QC|G1J-3J5|(418)649-1692|carrogers@videotron.ca
+M000012|MENF|FR|Menard|Martial|640 Rue Saint-Jean|Quebec|QC|G1R-4W9|(418)525-6535|martialmen@sympatico.ca
+M000013|MADU|FR|Boulay|Yvan|1610 Av Paquet|Quebec|QC|G1P-2B4|(418)864-0322|
+M000014|MAIN|EN|Atkinson|Clara|420 Ch Saint-Louis # 4 |Quebec|QC|G1S-1B6|(418)527-1975|catkinson@hotmail.com
+M000015|MAIN|FR|Coderre|Gaston|206 Rue Richelieu|Quebec|QC|G1R-1J6|(418)522-4152|
+M000016|METU|FR|Foster|Colin|5420 Av Banville|Quebec|QC|G1P-1H6|(418)864-7255|fosterc@sympatico.ca
+M000017|METU|FR|Lapointe|Martin|11055 Rue Du Patelin|Quebec|QC|G2A-2B3|(418)845-4416|
+M000018|MADU|FR|Nguyen|Le-Ha|1060 Av Des Braves|Quebec|QC|G1S-3C8|(418)684-0681|Lehanguyen@sympatico.ca
+M000019|MADU|FR|Reid|Marie-Christine|1151 Ch Sainte-Foy|Quebec|QC|G1S-2M8|(418)686-1871|mcreid71@hotmail.com
+M000020|MADU|FR|Vallerand|Jocelyn|559 Rue Bagot|Quebec|QC|G1N-2A6|(418)525-7245|info@distributionsvallerand.ca
+M000021|MAIN|FR|Ouimet|Karine|3250A Boul Laviolette|Trois-Rivieres|QC|G8Z-1G1|(819)378-4381|ouimetkar@cyberus.ca
+M000022|MENF|FR|Pichette|Lyne|2255 Rue Du Boise|Trois-Rivieres|QC|G8Y-7A7|(819)372-4894|Lpichette@videotron.ca
+M000023|METU|FR|Robillard|Pierre-Andre|1834 Rue Notre-Dame|Trois-Rivieres|QC|G9A-4Y1|(819)376-5900|parobillard@videotron.ca
+M000024|MADU|FR|Trottier|Claude|677 Rue Champflour|Trois-Rivieres|QC|G9A-1Z5|(819)370-3801|
+M000025|MENF|EN|Wolfe|Steve|466A Rue Bonaventure|Trois-Rivieres|QC|G9A-1B4|(819)379-2240|swolfe@sympatico.ca
+M000026|MAIN|FR|Sicard|Aime|5511 Boul Chanoine-Moreau|Trois-Rivieres|QC|G8Y-7S9|(819)379-4501|sicardaime@videotron.ca
+M000027|MADU|FR|Pomerleau|Christine|6714 Rue Joseph-edouard-Turcotte|Trois-Rivieres|QC|G9C-1M3|(819)376-1589|chrPomerleau11@hotmail.com
+M000028|MADO|EN|Turner|Patricia|3744 St Clair Ave E|Toronto|ON|M1M-1T8|(416)264-9788|TurnerPat516@yahoo.com
+M000029|MADU|EN|Edwards|Rosaline|116 Mossbank Dr|Toronto|ON|M1G-2C7|(416)438-8819|EdwardsRos@sympatico.ca
+M000030|METU|EN|Jones|Daniel|367 Brock Ave|Toronto|ON|M6H-3N4|(416)534-9156|ArmstrongRos320@yahoo.com
+M000031|MADU|FR|Kingsbury|Jules|171 de Montfort|Gatineau|QC|J8T-5A9|(819)246-3468|kingsbury384@hotmail.com
+M000032|MADU|FR|Guenette|Maurice|2 Radisson|Gatineau|QC|J8Z-1T5|(819)778-5079|mguenette271@hotmail.com
+M000033|MADU|FR|Filteau|Brigitte|329 bd St-Rene O|Gatineau|QC|J8P-2V9|(819)643-0919|brigitte@lunetteriefilteau.com
+M000034|MENF|EN|Edmonds|Michael|29 des Flandres|Gatineau|QC|J8T-5V5|(819)246-4841|medmonds@videotron.ca
+M000035|METU|FR|Delorme|Carole|243 de Morency|Gatineau|QC|J8V-2J7|(819)561-8773|delormecar@sympatico.ca
+M000036|MADU|FR|Boucher|Paul|31 rue Broad|Gatineau|QC|J9H-4H2|(819)684-8656|admin@plomberieboucher.ca
+M000037|MAIN|FR|Allard|Alain|15 du Havre|Gatineau|QC|J8Z-3P2|(819)595-1810|aall@sympatico.ca
+M000038|METU|FR|Bedard|Normand|49 de Lanaudiere|Gatineau|QC|J9A-1N4|(819)777-6052|BedardNorm11@cyberus.ca
+M000039|MENF|FR|Gagnon|Rachele|20 rue Mance|Gatineau|QC|J8T-5B8|(819)770-9853|
+M000040|MAIN|FR|Normand|Josee|64 Williamson|Gatineau|QC|J9A-2C5|(819)771-5582|jnormand372@hotmail.com
+M000041|MENF|FR|Charbonneau|Guy|686 Paul ave|Ottawa|ON|K1K-0X9|(613)744-0775|
+M000042|MADU|EN|Cousineau|Andrew|2029 Saunderson drive|Ottawa|ON|K1G-2E5|(613)526-3042|Andrew7395@hotmail.com
+M000043|MADU|EN|Godmaire|Kaileen|122 Southport drive|Ottawa|ON|K1T-3P5|(613)738-3793|kayleen@godmaireestate.ca
+M000044|MENF|EN|Henry|Richard|1402 Belcourt blvd|Ottawa|ON|K1C-1M2|(613)824-6347|Richenry@sympatico.ca
+M000045|MAIN|EN|McKinnon|Joan|63 Langstrom crescent|Ottawa|ON|K1G-5J6|(613)248-8786|jmckinnon2745@hotmail.com
+M000046|MENF|FR|Murray|Veronique|62 Rue Lorne E|Chicoutimi|QC|G7H-2L5|(418)698-0853|vero@assurancesmurray.ca
+M000047|MADU|FR|Fillion|Paul|100 Rue Saint-Jer�me|Chicoutimi|QC|G7G-3T9|(418)543-4077|
+M000048|MADU|FR|Smith|Maurice|2164 de la reserve|Chicoutimi|QC|G7H-5G3|(418)545-0598|msmith88@cyberus.ca
+M000049|MENF|FR|Gagnon|Patrick|999 Rue Blais|Chicoutimi|QC|G7J-2J6|(418)693-1374|patgagnon@videotron.ca
+M000050|MADU|FR|Racine|Veronique|534 Rue Jacques-Cartier E|Chicoutimi|QC|G7H-1Z6|(418)543-5803|veronique@racinedistributions.ca
+M000051|MENF|FR|Millette|Karine|777 Rue Des Hospitalieres|Chicoutimi|QC|G7H-7J3|(418)545-0267|
+M000052|MENF|FR|Simard|Marie|562 Rue Des Crecerelles|Chicoutimi|QC|G7H-5S9|(418)545-2901|simardMarie@sympatico.ca
+M000053|MAIN|FR|Tremblay|eric|1248 Rue Saint-Timothe E|Chicoutimi|QC|G7H-3R2|(418)545-3631|EricTremblay482@hotmail.com
+M000054|MAIN|EN|Edwards|Julian|78 McClennan Rd|Whitehorse|YT|Y1A-6H7|(867)668-7325|EdwardsJul@sympatico.ca
+M000055|MENF|EN|Anderson|Robert|19 Riverview Dr|Hay River|NT|X0E-0R7|(867)874-6322|AndersonRob@sympatico.ca
+M000056|MADU|EN|Rodgers|Heather|5079 Finlayson Dr|Yellowknife|NT|X1A-3G9|(867)873-5087|RodgersHea471@yahoo.com
+M000057|MENF|EN|Eastman|Heather|RR 1|Resolute|NU|X0A-0V0|(867)252-3630|EastmanHea@sympatico.ca
+M000058|MADU|EN|Barrett|Peggy|RR 3|Chesterfield Inlet|NU|X0C-0B0|(867)898-9053|BarrettPeg@Rogers.com
+M000059|MAIN|EN|Klein|Sylvia|1980 Sasamat Pl|Vancouver|BC|V6R-4A3|(604)221-7775|KleinSyl36@hotmail.com
+M000060|MADU|EN|Dunnigan|Patricia|7907 Hudson St|Vancouver|BC|V6P-4L9|(604)261-7777|DunniganPat321@yahoo.com
+M000061|MENF|EN|Gagnon|William|8770 Granville St|Vancouver|BC|V6P-5A7|(604)266-4095|GagnonWil@Rogers.com
+M000062|MENF|EN|Forman|Richard|5244 Hoy St|Vancouver|BC|V5R-4P1|(604)301-3073|FormanRic@sympatico.ca
+M000063|MAIN|EN|Robinson|Tom|2103 Southside Dr|Vancouver|BC|V5P-4S5|(604)321-5569|RobinsonTom713@hotmail.com
+M000064|METU|EN|Klein|Theresa|9242 Chinook Rd|Vernon|BC|V1H-1K3|(250)542-9995|KleinThe@sympatico.ca
+M000065|MADU|EN|Johnson|Peggy|3602 27 Ave|Vernon|BC|V1T-1S4|(250)549-4806|JohnsonPeg@sympatico.ca
+M000066|MADO|EN|Freeman|Rosaline|7740 Abercrombie Dr|Richmond|BC|V6Y-3G6|(604)233-7027|FreemanRos@sympatico.ca
+M000067|MADO|EN|Elliott|Patricia|10180 Williams Rd|Richmond|BC|V7A-1H4|(604)271-7472|ElliottPat@Rogers.com
+M000068|MADO|EN|Davis|Jennifer|1760 9th Ave|Prince George|BC|V2L-3S1|(250)563-4977|DavisJen@Rogers.com
+M000069|METU|EN|Freeman|John|52 Sundown Way SE|Calgary|AB|T2X-3B6|(403)256-6345|FreemanJoh@Rogers.com
+M000070|MENF|EN|Williams|Claire|70 Shawbrooke Rise SW|Calgary|AB|T2Y-3A3|(403)256-1947|WilliamsCla@Rogers.com
+M000071|MAIN|EN|Arnolds|Wendy|835 Hunterston Cres NW|Calgary|AB|T2K-4N4|(403)226-9794|ArnoldsWen@sympatico.ca
+M000072|MADU|EN|Earl|Jessica|283 Abinger Cres NE|Calgary|AB|T2A-6L2|(403)248-5014|EarlJes@sympatico.ca
+M000073|MENF|EN|Webster|Susan|303 57 Ave SW|Calgary|AB|T2H-2S4|(403)255-3236|WebsterSus674@hotmail.com
+M000074|MENF|EN|Eastman|James|9908 88 St NW|Edmonton|AB|T5H-4N2|(780)426-5754|EastmanJam@Rogers.com
+M000075|MADO|EN|Grant|Jamie|11405 27 Ave NW|Edmonton|AB|T6J-3N6|(780)433-1332|GrantJam433@yahoo.com
+M000076|METU|EN|Potter|Peggy|206 Cooney Rd SE|Medicine Hat|AB|T1B-1Y7|(403)504-1163|FryFre601@yahoo.com
+M000077|MADO|EN|Fraser|Jennifer|81 McGee Cres|Saskatoon|SK|S7L-4M6|(306)382-3343|RobinsonCat@sympatico.ca
+M000078|MENF|EN|Casey|James|17 Stewart|Saskatoon|SK|S7L-3S5|(306)382-5108|CaseyJam710@hotmail.com
+M000079|MAIN|EN|Brown|Susan|151 Rink Ave|Regina|SK|S4R-5W2|(306)545-9759|BrownSus@Rogers.com
+M000080|METU|EN|Casey|Harold|965 Elizabeth Rd|Winnipeg|MB|R2J-1B2|(204)237-5989|GagnonSyl16@hotmail.com
+M000081|MADO|EN|Arnolds|Julian|555 Burnell St, Unit 902|Winnipeg|MB|R3G-3L7|(204)783-8032|ArnoldsJul@sympatico.ca
+M000082|MENF|EN|Cherry|Scott|243 Queens Ave E|Brandon|MB|R7A-2B9|(204)727-1694|CherrySco228@hotmail.com
+M000083|MENF|EN|Williams|Claire|5229 Dundas St W|Toronto|ON|M9B-6L9|(416)232-1770|WilliamsCla@Rogers.com
+M000084|MAIN|EN|Barrett|Nicole|3744 St Clair Ave E|Toronto|ON|M1M-1T8|(416)264-9788|JonesLau302@hotmail.com
+M000085|MAIN|EN|Moore|Carol|116 Mossbank Dr|Toronto|ON|M1G-2C7|(416)438-8819|MooreCar453@yahoo.com
+M000086|MADU|EN|Davis|Richard|367 Brock Ave|Toronto|ON|M6H-3N4|(416)534-9156|DavisRic768@hotmail.com
+M000087|MAIN|EN|Elliott|Harold|392 Wilson Ave|Toronto|ON|M3H-1S9|(416)636-3104|ElliottHar752@hotmail.com
+M000089|MADU|EN|Fraser|Harold|2561 Bloor St W|Toronto|ON|M6S-1S2|(416)763-3314|FraserHar@sympatico.ca
+M000090|METU|EN|Smith|Thomas|44 Britain St|Toronto|ON|M5A-1R6|(416)364-7581|SmithTho@Rogers.com
+M000091|METU|EN|Harrisson|Helen|79 King Edward Ave|Toronto|ON|M4C-5J5|(416)422-2844|HarrissonHel371@hotmail.com
+M000092|MADU|EN|Casey|Laura|563 St James St|London|ON|N5Y-3P5|(519)432-1571|CaseyLau571@hotmail.com
+M000093|MADU|EN|Eastman|John|885 Warburton Cres|Kingston|ON|K7M-8L3|(613)531-3972|EastmanJoh@sympatico.ca
+M000094|MAIN|EN|Webster|Brian|3015 Temple Dr|Windsor|ON|N8W-5H9|(519)974-8798|WebsterBri@Rogers.com
+M000095|MENF|EN|Gagnon|Leah|158 Marlow Rd|Fredericton|NB|E3B-4M2|(506)459-7244|GagnonLea@Rogers.com
+M000096|MAIN|EN|Bell|Fred|221 Whitney Ave|Moncton|NB|E1C-8E1|(506)859-9508|BellFre@Rogers.com
+M000097|MADU|EN|Williams|Doug|5685 Cabot S|Halifax|NS|B3K-2J9|(902)455-3513|WilliamsDou410@hotmail.com
+M000098|MADU|EN|Webster|Neville|105 Dunbrack St|Halifax|NS|B3M-3G7|(902)443-2630|WebsterNev328@yahoo.com
+M000099|METU|EN|Hamilton|James|955 George St|Sydney|NS|B1P-6R6|(902)562-0575|HamiltonJam191@yahoo.com
+M000100|MADU|EN|Earl|Doug|17 Abbey Dr|Charlottetown|PE|C1A-8A4|(902)892-8831|EarlDou@sympatico.ca
+M000101|METU|EN|Baker|Rosaline|310 Jennifer|Summerside|PE|C1N-4P6|(902)436-0211|BakerRos@Rogers.com
+M000102|MAIN|EN|Arnolds|Rosaline|390 Blackmarsh Rd|St. John's|NL|A1E-1T6|(709)726-2908|ArnoldsRos589@hotmail.com
+M000103|MENF|EN|Anderson|Fred|25 Wilson Dr|Corner Brook|NL|A2H-6W3|(709)634-0565|AndersonFre@sympatico.ca
+M000104|MADU|FR|Pelletier|G|15 de la sapiniere|Gatineau|QC|J8T-3L7|(819)770-5045|pell@hotmail.com

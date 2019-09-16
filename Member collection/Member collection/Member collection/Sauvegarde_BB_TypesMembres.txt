@@ -1,0 +1,5 @@
+MADO|Adolescents
+MADU|Adultes
+MAIN|Aînés
+MENF|Enfants
+METU|Étudiant
